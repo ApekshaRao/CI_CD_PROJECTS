@@ -1,2 +1,3 @@
-# CI_CD_PROJECTS
-CI CD course projects
+# maven-project
+
+Simple Maven Project
